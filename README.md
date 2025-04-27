@@ -4,8 +4,8 @@
 
 I'm a Software Engineer from Brazil!
 
-- 🔭 I’m working as a Front-End Developer.
-- 🌱 I'm on a journey to learn Java, aiming to become a proficient backend developer, and I have plans to delve into DevOps in the future.
+- 🔭 I’m working as a Front-End Developer (React and React Native).
+- 🌱 I'm on a journey become a proficient full-stack developer, and I have plans to delve into DevOps in the future.
 - ⚡ In my free time, I geek out reading tech articles and dive into personal projects to level up my skills and explore new things. 
 - 👨‍💻 Feel free to connect with me and explore [my portifolio](https://jair-portifolio.vercel.app/) and my github projects!🚀
 - 🌐 Let's connect:  : &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/frisonjr/)
